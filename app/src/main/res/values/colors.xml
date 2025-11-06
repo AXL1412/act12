@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette: Communication & Trust -->
+    <color name="primary_dark_blue">#0D1B2A</color>
+    <color name="primary_blue">#1B263B</color>
+    <color name="primary_light_blue">#415A77</color>
+
+    <!-- Accent & Alert Palette -->
+    <color name="accent_orange">#E36414</color>
+    <color name="accent_yellow">#FCA311</color>
+
+    <!-- Text & Background Palette -->
+    <color name="text_primary">#E0E1DD</color>
+    <color name="text_secondary">#A9B4C2</color>
+    <color name="background_main">#0D1B2A</color>
+
+    <!-- Default Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
